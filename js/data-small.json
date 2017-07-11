@@ -1,0 +1,24 @@
+{
+  "name": "iHeart",
+  "type": "root",
+  "children": [{
+      "name": "Client",
+      "category": "client"
+    }, {
+      "name": "Services",
+      "category": "service"
+    }, {
+      "name": "Data Storage",
+      "category": "database"
+    }, {
+      "name": "Ingestion",
+      "category": "service"
+    }, {
+      "name": "Data Warehouse",
+      "category": "service"
+    }, {
+      "name": "Data Science",
+      "category": "service"
+    }
+  ]
+}
